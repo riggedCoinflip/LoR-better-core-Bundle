@@ -1,0 +1,30 @@
+{
+    "champion": {
+        "price_shards": 3000,
+        "shards_duplicate": 750,
+        "price_coins": 300,
+        "maxbuys_week": 3,
+        "duplicate_protection": true
+    },
+    "epic": {
+        "price_shards": 1200,
+        "shards_duplicate": 250,
+        "price_coins": 120,
+        "maxbuys_week": 3,
+        "duplicate_protection": true
+    },
+    "rare": {
+        "price_shards": 300,
+        "shards_duplicate": 60,
+        "price_coins": 30,
+        "maxbuys_week": 6,
+        "duplicate_protection": false
+    },
+    "common": {
+        "price_shards": 30,
+        "shards_duplicate": 15,
+        "price_coins": 10,
+        "maxbuys_week": 6,
+        "duplicate_protection": false
+    }
+}
